@@ -1,5 +1,7 @@
 # Bachelor-Thesis-FairProfit: Blockchain-based payment to enable fair profit distribution
 
+This is the official repository related to my bachelor thesis: **Blockchain-based payment to enable fair profit distribution** (01.2022)
+
 This directory contains three different files:
 - FairContract: Smart Contract of the aproach
 - FairWebApp: WebApp of the approach
